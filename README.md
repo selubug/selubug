@@ -23,7 +23,6 @@ Added authentication and protected routes
 Built saved and favorited generation systems
 Implemented subscription-based access with Stripe
 
-View Project
 
 Coffee Shop Full-Stack Application
 
@@ -36,7 +35,6 @@ Modeled menus, orders, reservations, and drive-thru workflows
 Added authentication and automated testing
 Worked across frontend, backend, and database layers
 
-View Project
 
 Multiplayer Minigame Systems
 
@@ -49,8 +47,6 @@ Developed round and game-state systems
 Implemented inventory, teams, UI, vehicles, and real-time gameplay logic
 Designed reusable systems shared across multiple experiences
 
-View Project
-
 Multiplayer Gameplay Systems
 
 Reusable multiplayer systems built for Unreal Engine and UEFN projects.
@@ -62,7 +58,6 @@ Implemented player state and team logic
 Built multiplayer UI and inventory functionality
 Debugged gameplay and networking behavior
 
-View Project
 
 Tech Stack
 
