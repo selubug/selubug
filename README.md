@@ -2,7 +2,7 @@ Hi, I'm Ethan Guidry
 
 I'm an Information Technology student at Southeastern Louisiana University and a developer focused on full-stack software, backend systems, and multiplayer applications.
 
-I've built and shipped 15+ multiplayer products using Unreal Engine and UEFN, with projects reaching:
+I've built and released 15+ multiplayer games using Unreal Engine and UEFN, with projects reaching:
 15M+ total user sessions
 35K+ peak concurrent users
 $300K+ revenue
