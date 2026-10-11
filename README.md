@@ -6,8 +6,7 @@ I've built and released 15+ multiplayer games using Unreal Engine and UEFN, with
 15M+ total user sessions
 35K+ peak concurrent users
 $300K+ revenue
-https://fortnite.gg/island/6066-0594-3952
-
+(see maps pinned below)
 
 Outside of game development, I build full-stack web and mobile applications using technologies like React, TypeScript, Next.js, ASP.NET Core, PostgreSQL, and SQL Server.
 
