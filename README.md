@@ -57,28 +57,11 @@ Implemented player state and team logic
 Built multiplayer UI and inventory functionality
 Debugged gameplay and networking behavior
 
-
 Tech Stack
 
 Languages
 
 C++ TypeScript JavaScript Python C# SQL Verse HTML/CSS
-
-Frontend
-
-React Next.js React Native Expo
-
-Backend
-
-ASP.NET Core REST APIs Entity Framework Core
-
-Databases & Services
-
-PostgreSQL SQL Server Supabase
-
-Tools
-
-Git GitHub Azure Visual Studio VS Code Unreal Engine UEFN Blender
 
 About Me
 🎓 B.S. in Information Technology — Southeastern Louisiana University
